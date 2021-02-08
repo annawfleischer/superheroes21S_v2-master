@@ -1,0 +1,23 @@
+* {
+  box-sizing: border-box; /* 'bxz' */
+}
+
+img {
+  max-width: 100%;
+  height: auto;
+}
+
+h1,
+h2 {
+  font-family: "Courier New", Courier, monospace;
+}
+
+p {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+article {
+  border: solid black 4pt;
+  padding: 20pt;
+  margin: 1rem;
+}
